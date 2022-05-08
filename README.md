@@ -1,11 +1,5 @@
 # Build My World
-A first project from Udacity Robotics Nanodegree. 
-
-Main tasks are:
-* Build a single floor wall structure using the Building Editor tool in Gazebo.
-* Model simple robot using the Model Editor tool in Gazebo.
-* Import a least one model from Gazebo Online Library.
-* Write a C++ World Plugin to interact with world.
+The aim of the project is to create a Gazebo world with 2 wheeled robot and building model. And interact with Gazebo by writing C++ plugin. 
 
 <p align="center">
   <img width="460" height="300" src="image/Build_My_World.png">
