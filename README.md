@@ -3,7 +3,7 @@ A first project from Udacity Robotics Nanodegree.
 
 Main tasks are:
 * Build a single floor wall structure using the Building Editor tool in Gazebo.
-* Model any object using the Model Editor tool in Gazebo.
+* Model simple robotusing the Model Editor tool in Gazebo.
 * Import a least one model from Gazebo Online Library.
 * Write a C++ World Plugin to interact with world.
 
